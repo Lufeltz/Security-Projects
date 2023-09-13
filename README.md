@@ -1,6 +1,6 @@
-# Sec Projects
+# Security Projects
 
-👋 Bem-vindo ao "Sec Projets", um repositório dedicado a projetos diversos relacionados à segurança cibernética. Aqui, estou construindo uma coleção de projetos com o objetivo de aprender mais sobre diferentes aspectos da segurança.
+👋 Bem-vindo ao "Security Projets", um repositório dedicado a projetos diversos relacionados à segurança cibernética. Aqui, estou construindo uma coleção de projetos com o objetivo de aprender mais sobre diferentes aspectos da segurança.
 
 O Que Esperar:
 
