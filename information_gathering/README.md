@@ -1,19 +1,15 @@
 # Information Gathering
 
-* Este repositório foi criado para fornecer uma coleção de ferramentas e scripts úteis para coleta de informações e reconhecimento de alvos em testes de segurança e avaliação de sistemas.
+Information Gathering, ou coleta de informações, é o processo de obtenção de dados relevantes sobre sistemas, redes ou organizações. Em contextos de segurança, essa prática visa entender a superfície de ataque, identificar potenciais vulnerabilidades e construir um perfil abrangente do alvo.
 
-* Aqui serão disponibilizados diversos scripts com o objetivo de obter informações.
+### Alguns dos scripts e ferramentas que serão implementadas aqui ao longo do tempo:
 
+- **Enumeradores de subdomínios:** Ferramentas para descobrir subdomínios de um domínio-alvo.
 
-Alguns dos scripts que estarão disponíveis aqui são:
+- **Scanners de porta:** Scripts para verificar portas abertas em um alvo e identificar serviços em execução.
 
-**Enumeradores de Subdomínios:** Ferramentas para descobrir subdomínios de um domínio-alvo, incluindo integração com serviços de terceiros como Sublist3r e CertSpotter.
+- **Ferramentas de enumeração de DNS:** Utilitários para explorar informações DNS, como resolução reversa, registros DNS e zonas.
 
-**Scanners de Porta:** Scripts para verificar portas abertas em um alvo e identificar serviços em execução.
+- **Rastreamento de ativos:** Recursos para mapear ativos, identificar tecnologias utilizadas e coletar informações de cabeçalhos HTTP.
 
-**Ferramentas de Enumeração de DNS:** Utilitários para explorar informações DNS, como resolução reversa, registros DNS e zonas.
-
-**Rastreamento de Ativos:** Recursos para mapear ativos, identificar tecnologias utilizadas e coletar informações de cabeçalhos HTTP.
-
-**Coleta de Informações Públicas:** Scripts para coletar informações disponíveis publicamente de um alvo, incluindo e-mails, informações WHOIS e muito mais.
-
+- **Coleta de informações públicas:** Scripts para coletar informações disponíveis publicamente de um alvo, incluindo e-mails, informações WHOIS e muito mais.
